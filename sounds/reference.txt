@@ -1,0 +1,7 @@
+crash
+kick-bass
+snare
+tom-1
+tom-2
+tom-3
+tom-4
